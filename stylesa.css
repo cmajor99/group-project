@@ -1,39 +1,3 @@
-.box1{
-    text-align: center;
-    position: relative;
-}
-.box2{
-    position: relative;
-}
-.box3{
-    text-align: center;   
-}
-.intel1{
-    width: 100%;
-    height: 450px;
-}
-.intel2{
-    height: 450px;
-}
-.intel3{
-    height: 450px;
-    width: 700px;
-}
-.intel4{
-    height: 450px;
-    width: 700px;
-}
-.intel5{
-    height: 450px;
-    width: 700px;
-}
-.Intel{
-    color: white;
-    position: absolute;
-    top: 25px;
-    left: 675px;
-    font-size: 75px;
-}
 .amd1{
     height: 450px;
     width: 700px;
@@ -58,11 +22,6 @@
     left: 675px;
     font-size: 75px;
 }
-.p1{
-    font-size: 20px;
-    font-weight: bold;
-    padding: 20px;
-}
 .p2{
     font-size: 25px;
     position: relative;
@@ -85,6 +44,6 @@
 .headerp{
     text-align: center;
 }
-.intelv{
-    text-align: center;
+.box3{
+    text-align: center;   
 }
