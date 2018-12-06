@@ -40,3 +40,6 @@ table {
   tr:nth-child(even) {
     background-color: #dddddd;
   }
+.form{
+    text-align: center;
+}
