@@ -8,26 +8,27 @@
 .box3{
     text-align: center;   
 }
-.intel1{
+.nvidia1{
     width: 100%;
     height: 450px;
 }
-.intel2{
-    height: 450px;
-}
-.intel3{
+.nvidia2{
     height: 450px;
     width: 700px;
 }
-.intel4{
+.nvidia3{
     height: 450px;
     width: 700px;
 }
-.intel5{
+.nvidia4{
     height: 450px;
     width: 700px;
 }
-.Intel{
+.nvidia5{
+    height: 450px;
+    width: 700px;
+}
+.nvidia{
     color: white;
     position: absolute;
     top: 25px;
