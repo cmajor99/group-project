@@ -47,3 +47,8 @@ table {
     text-align: center;
     font-weight: bold;
 }
+.towers{
+    text-align: center;
+    height: 500px;
+    width: 50%;
+}
