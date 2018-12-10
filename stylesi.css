@@ -52,3 +52,9 @@ table {
     height: 500px;
     width: 50%;
 }
+.pagetitle{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-size: 50px;
+}
