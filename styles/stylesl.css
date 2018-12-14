@@ -1,0 +1,129 @@
+
+h1{
+    font-size:30px;
+    text-align:center;
+    font-weight: bold;
+    background-color:greenyellow;
+    padding:10px;
+}
+.a1{
+
+    text-align: center;
+
+    position: relative;
+
+}
+
+.a2{
+
+    position: relative;
+
+}
+
+.aa1{
+
+    width: 90%;
+
+    height: 400px;
+
+}
+/*img style start*/
+.L{
+    height:600px;
+    width:700px;
+}
+.L1{
+    height: 450px;
+    width: 700px;
+}
+
+.L2{
+    height: 450px;
+    width: 700px;
+}
+
+.L3{
+    height: 450px;
+    width: 700px;
+}
+
+.L4{
+    height: 450px;
+    width: 700px;
+}
+/*img style ends*/
+
+
+.p1{
+
+    font-size: 20px;
+
+    font-weight: bold;
+
+    padding: 20px;
+
+}
+
+.p2{
+
+    font-size: 20px;
+
+    position: relative;
+
+    bottom: 300px;
+
+    left:700px;
+
+}
+
+.price{
+
+    position: relative;
+
+    left: 750px;
+
+    bottom: 400px;
+    color: brown;
+
+}
+/*footer style*/
+.footerp{
+
+    
+    background-color:greenyellow ;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    font-size: 18px;
+    clear: both;
+    z-index: 2;
+    bottom: 0;
+}
+/*header style*/
+.headerp{
+
+    text-align: center;
+
+}
+h3{
+    
+    color:blue;
+    font-size:25px; 
+}
+/* -----For the BotNav----- */
+.bot-nav {
+	background-color:rgba(0, 0, 0, 0.589);
+	position: fixed;
+	bottom: 10px;
+	right: 10px;
+	z-index: 5;
+}
+
+.bot-nav a {
+	float: left;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 20px;
+}
